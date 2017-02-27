@@ -3,7 +3,7 @@
 Decrypts files encrypted by oDrive.
 
 This is a work in progress. oDrive has yet to divulge critical information
-regarding the encryption process.
+regarding the encryption process. None of the code has been tested.
 
 Please follow the discussions on oDrive's forum.
 
