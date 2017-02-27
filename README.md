@@ -21,8 +21,8 @@ Please follow the discussions on oDrive's forum.
     - [ ] Iterations
     - [x] Digest algorithm: HMAC-SHA256
   - [x] Plaintext format:
-    - [x]: File contents
-    - [x]: SHA256 hash of file contents
+    - [x] File contents
+    - [x] SHA256 hash of file contents
   - [x] Encrypted file format:
     - [x] Version info size: 8-bits
     - [x] Salt
