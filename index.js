@@ -4,9 +4,6 @@ const net = require('net')
 
 module.exports = odriveDecrypt
 
-/**
- * To be confirmed. See https://forum.odrive.com/t/encryption-questions-key-storage-decryption-process-and-others/2094/3
- */
 const V_SIZE = 1
 const S_SIZE = 64 / 8
 const IV_SIZE = 128 / 8
